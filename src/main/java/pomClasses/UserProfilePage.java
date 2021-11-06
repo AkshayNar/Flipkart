@@ -82,7 +82,7 @@ WebDriver driver;
 	public void addLocality()
 	{
 		Utility.expliciteWait(driver, 5, addressLocality);
-		addressLocality.sendKeys("Nanded City");
+		addressLocality.sendKeys("Vivekanand chowk, Latur");
 	}
 	
 	public void addAddress()
