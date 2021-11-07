@@ -97,7 +97,7 @@ WebDriver driver;
 		
 		Utility.expliciteWait(driver, 5, state);
 		
-		sel.selectByVisibleText("Maharashtra");
+		sel.selectByVisibleText("Maharashtra/Latur");
 	}
 	
 	public void selectTypeOfAddtess()
